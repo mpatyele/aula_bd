@@ -114,3 +114,8 @@ INSERT INTO PRODUTOS VALUES (null, "OPQ789","Console Playstation 5","Nao acompan
 INSERT INTO PRODUTOS VALUES (null, "XYZ222","Console Playstation 3","Nao acompanha jogo, vem com 1 controle",1500.00,"ps3.jpg",2,6);
 
 
+-- tabela compra
+INSERT INTO COMPRA VALUES (null, "2023-03-25", 4000.0, 4000.0,0, 1,1);
+INSERT INTO COMPRA VALUES (null, "2023-06-06", 50.0, 40.0, 10, 3,1);
+INSERT INTO COMPRA VALUES (null, "2023-02-11", 2999.90, 2999.90, , 6,2);
+INSERT INTO COMPRA VALUES (null, "2023-04-04", 35, 35, , 4,3);
